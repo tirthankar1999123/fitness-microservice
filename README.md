@@ -1,4 +1,4 @@
-This is the Official repository of **Java Spring Boot AI Full Stack Microservices Course: Building Fitness Application** on Udemy
+This is the Official repository of **Java Spring Boot AI Full Stack Microservices Course: Building Fitness Application**
 
 # The Ultimate Java and Spring Boot Mastery Roadmap
 
